@@ -1,4 +1,4 @@
-*Project Name* : Data Analysis on Movies
+**Project Name :** Data Analysis on Movies
 
 Important Note: While the dataset I analyzed contains some inaccuracies, the techniques I employed in the analysis remain sound and applicable.
 
