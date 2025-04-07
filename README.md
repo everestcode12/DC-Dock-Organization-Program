@@ -9,7 +9,7 @@ Dashboard
 VLOOKUP
 IF
 
-** Project Description: ** 
+**Project Description:** 
 In this project, I created a dashboard for shift and floor managers to gather quick information about routes, docks, PEC's and waves, through mainly using the VLOOKUP function. 
 
 
