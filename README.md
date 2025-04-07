@@ -1,14 +1,15 @@
-**Project Name :** Data Analysis on Movies
+**Project Name :** DC Dock Organization Program
 
-Important Note: While the dataset I analyzed contains some inaccuracies, the techniques I employed in the analysis remain sound and applicable.
+**Important Note:** All of the data and information is simulated.
 
-Skills acquired:
+**Skills acquired:**
 
-Microsoft PowerBi
-Power Query Editor
-Data Cleaning
-Data Visualization
-Data Transforming
-Project Description: In this project, I analyzed a collection of movies using Power BI, utilizing the Power Query Editor to transform and clean the data for in-depth analysis. The project involved multiple techniques: extracting data from csv, removing errors, removing blanks, changing data types, removing columns, multiple features of splitting columns by delimeters, extracting text with delimeters, performing statistics, instantiating queries into folders, appending queries, and filtering rows.
+Microsoft Excel
+Dashboard
+VLOOKUP
+IF
 
-This project helped develop my skills not only in data transformation, and cleaning but in data visualization as well. The visuals included in this project were: stacked bar charts, 100% stacked bar chart, area charts, ribbon chart, pie charts, donut charts, decomposition tree, scorecards and tables.
+** Project Description: ** 
+In this project, I created a dashboard for shift and floor managers to gather quick information about routes, docks, PEC's and waves, through mainly using the VLOOKUP function. 
+
+
